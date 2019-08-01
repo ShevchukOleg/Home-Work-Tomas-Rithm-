@@ -107,7 +107,7 @@ a {
 .page {
 	position: relative;
 	overflow: hidden;
-	min-height: 100vh;
+	/* min-height: 100vh; */
 }
 
 .site-header {
@@ -821,14 +821,16 @@ p.alert_text span {
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
-		flex-direction: row;}
+		flex-direction: row;
+	}
 }
 
 @media (min-width: 768px){
 	.column_4b{
 		width: 33.3333%;
 		float: left;
-		text-align: justify;}
+		text-align: justify;
+	}
 
 	.section_2 {
  	padding-top: 135px;
