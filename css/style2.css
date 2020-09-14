@@ -9,8 +9,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -180,7 +180,7 @@ a.logo {
 .link_button {
 	display: inline-block;
     padding: 7px 39px;
-    margin-top: 2px; 
+    margin-top: 2px;
     text-decoration: none;
     color: #111111;
     text-transform: uppercase;
@@ -202,7 +202,7 @@ a.link_button:hover {
 	position: relative;
 	display: flex;
 	flex-direction: column;
-	justify-content: center; 
+	justify-content: center;
 	background-image: url('../images/S1-BG.jpg');
 	background-size: cover;
 	background-position: center;
@@ -265,7 +265,7 @@ a.link_button:hover {
 	padding-right: 15px;
 }
 
-.container_narrow { 
+.container_narrow {
 	max-width: 768px;
 	width: 100%;
 	margin-left: auto;
@@ -305,7 +305,7 @@ a.link_button:hover {
 	padding-left: 15px;
 	padding-right: 15px;
 }
- 
+
 .icon_wrap_5to12, .icon_and_p_wrap {
 	display: inline-block;
 	text-align: center;
@@ -406,7 +406,7 @@ h4.white_text {
 	position: absolute;
 	overflow: hidden;
 	top: 5.5%;
-	right: 4.7%; 
+	right: 4.7%;
 	left: 4.8%;
 	height: 69.5%;
 }
@@ -517,19 +517,19 @@ h4.white_text {
 .section_8 .owl-carousel button.owl-dot {
 	border: solid white 3.5px;
 	background-color: white;
-    width: 7px;
+  width: 7px;
  	height: 7px;
-    margin: 3px;
-    border-radius: 50%;
+  margin: 3px;
+  border-radius: 50%;
 }
 
 .section_8 .owl-carousel button.owl-dot.active {
 	border: solid white 1px;
-    width: 8px;
-    height: 8px;
-    margin: 3px;
-    border-radius: 50%;
-    background-color: black;
+	width: 8px;
+	height: 8px;
+	margin: 3px;
+	border-radius: 50%;
+	background-color: black;
 }
 
 .owl-carousel .owl-dots {
@@ -565,11 +565,11 @@ button.owl-prev::before {
 	position: absolute;
 	left: -22px;
 	top: -13px;
-	ccolor: blue;
+	color: blue;
 	z-index: 10;
 	font-family: 'FontAwesome';
 	font-size: 16px;
-	content: '\f104';	
+	content: '\f104';
 }
 
 
@@ -611,7 +611,7 @@ button.owl-next::before {
 }
 
 #map {
-        height: 410px;  
+        height: 410px;
         width: 100%;
        }
 
@@ -676,10 +676,10 @@ button.owl-next::before {
 	position: relative;
 	display: flex;
 	margin-top: 20px;
-	padding-left: 20%; 
+	padding-left: 20%;
 	align-items: center;
 	margin-bottom: 15px;
-	
+
 }
 
 .contact {
@@ -729,7 +729,7 @@ button.owl-next::before {
 
 .colunm_6b {
 	padding: 1px 15px 1px;
-	
+
 }
 
 
@@ -810,7 +810,7 @@ p.alert_text span {
 	align-items: center;
 	list-style-type: none;}
 }
-	
+
 @media (min-width: 768px) {
 	.navigation_items li {padding-left: 36px;}
 }
@@ -973,7 +973,7 @@ h4.white_text {
 
 .feedback_form {
 	margin-top: 58px;
-	padding-bottom: 138px; 
+	padding-bottom: 138px;
 }
 
 .colunm_6b {
